@@ -1,0 +1,10 @@
+roundtrip_max_err,3.12946e-11
+tilt_reach_min_deg,26.1871
+tilt_reach_max_deg,33.4601
+parasitic_shift_mm_at15,1.53334
+parasitic_yaw_deg_at15,0.987358
+linearIK_max_err_deg_20disc,0.519739
+fixedcentreIK_max_err_deg_20disc,1.10558
+fixedcentre_side_violation_pct_at15,0.885556
+condJ_min,15.7135
+condJ_max,20.1226

@@ -1,0 +1,25 @@
+delay_ms,config,dist_rms_mm,dist_failed,circle_rms_mm,circle_failed
+16.7,A1 Exact IK,7.922,0,7.146,0
+16.7,A2 Exact+FF,7.922,0,3.330,0
+16.7,A3 Exact+FF+DelayKF,7.794,0,1.359,0
+16.7,P  Proposed (full),7.738,0,1.411,0
+33.3,A1 Exact IK,9.334,0,9.044,0
+33.3,A2 Exact+FF,9.334,0,5.913,0
+33.3,A3 Exact+FF+DelayKF,8.597,0,1.458,0
+33.3,P  Proposed (full),8.502,0,1.477,0
+50.0,A1 Exact IK,13.188,0,11.787,0
+50.0,A2 Exact+FF,13.188,0,9.023,0
+50.0,A3 Exact+FF+DelayKF,9.439,0,1.584,0
+50.0,P  Proposed (full),9.385,0,1.554,0
+66.7,A1 Exact IK,14.951,0,25.038,0
+66.7,A2 Exact+FF,14.951,0,23.157,0
+66.7,A3 Exact+FF+DelayKF,10.308,0,1.727,0
+66.7,P  Proposed (full),10.276,0,1.715,0
+83.3,A1 Exact IK,45.881,0,NaN,1
+83.3,A2 Exact+FF,45.881,0,NaN,1
+83.3,A3 Exact+FF+DelayKF,11.219,0,1.816,0
+83.3,P  Proposed (full),11.171,0,1.764,0
+100.0,A1 Exact IK,NaN,1,NaN,1
+100.0,A2 Exact+FF,NaN,1,NaN,1
+100.0,A3 Exact+FF+DelayKF,12.191,0,1.992,0
+100.0,P  Proposed (full),12.276,0,1.972,0
